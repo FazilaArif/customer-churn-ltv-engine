@@ -134,9 +134,16 @@ The dataset contains customer information including:
 
 #### 6. Open the Project: Click Open on the notification prompt to load the cloned repository directly into VS Code.
 
-#### 7. Make Changes as per your work
+#### 7. Make your own branch (Below command is use for Create and immediately switch to your new branch)
+        {
+            git checkout -b your-new-branch-name
+        }
 
-#### 8. After changes run below command in terminal
+        this command run only one time when you are new member.
+
+#### 8. Make Changes as per your work
+
+#### 9. After changes run below command in terminal
 
         (
             git branch
