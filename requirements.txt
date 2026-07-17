@@ -1,4 +1,22 @@
 pandas
 numpy
+matplotlib
+seaborn
+missingno
+scikit-learn
+ydata_profilling
+pickle
 jupyter
 ipykernel
+
+
+# Open Terminal and run command with : pip install "library name"
+{
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scikit-learn
+ydata_profilling
+}
