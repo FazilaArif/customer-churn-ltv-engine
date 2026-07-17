@@ -92,8 +92,8 @@ The dataset contains customer information including:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- XGBoost *(Optional)*
-- Gradient Boosting *(Optional)*
+- XGBoost _(Optional)_
+- Gradient Boosting _(Optional)_
 
 ---
 
@@ -133,6 +133,27 @@ The dataset contains customer information including:
 #### 5. Select a Local Folder: Choose the folder on your computer where you want to save the project files.
 
 #### 6. Open the Project: Click Open on the notification prompt to load the cloned repository directly into VS Code.
+
+#### 7. Make Changes as per your work
+
+#### 8. After changes run below command in terminal
+
+        (
+            git branch
+            {
+                Identify your are already on your branch
+            }
+
+            if you are not on your branch then run this command
+            {
+                git checkout Your_Branch_Name
+            }
+
+            git status
+            git add .
+            git commit -m "Message where to change"
+            git push
+        )
 
 ---
 
