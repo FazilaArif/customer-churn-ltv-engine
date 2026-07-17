@@ -1,1 +1,7 @@
 # comment.txt is for daily commit purpose team member comment daily here anything and push this on github create pull request for daily commit 
+# Import all the required Python libraries for data analysis,
+# visualization, preprocessing, machine learning, and model evaluation.
+# Load the Telco Customer Churn dataset into a Pandas DataFrame
+# and display the dataset.
+# Display the first five rows of the dataset
+# to understand its structure.
