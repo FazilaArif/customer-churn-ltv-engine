@@ -66,6 +66,8 @@ The dataset contains customer information including:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Missingno
+- VS Code
 - Jupyter Notebook
 - Git & GitHub
 
@@ -114,18 +116,6 @@ The dataset contains customer information including:
 
 ---
 
-## 👥 Team Contributions
-
-| Member | Contribution |
-|---------|--------------|
-| Team Member 1 | Your Work |
-| Team Member 2 | Your Work |
-| Team Member 3 | Your Work |
-| Team Member 4 | Your Work |
-| **Viraj Chothani** | Uploaded dataset to `Data/` folder, created Jupyter Notebook (`telco_churn.ipynb`), Git repository management |
-
----
-
 ## 📥 Installation
 
 ### Clone a Remote Repository to VS Code
@@ -150,16 +140,7 @@ The dataset contains customer information including:
 
 - Deploy using FastAPI
 - Streamlit Dashboard
-- Hyperparameter Tuning
-- Model Monitoring
-- Docker Deployment
 - CI/CD Pipeline
-
----
-
-## ⭐ Repository
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
