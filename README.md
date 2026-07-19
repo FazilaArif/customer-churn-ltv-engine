@@ -36,7 +36,9 @@ Customer-Churn-LTV-Engine/
 ├── Model/
 │   └── Churn_pipeline.pkl
 │
-├── telco_churn.ipynb
+├── telco_churn_classification.ipynb
+│
+├── telco_churn_regression.ipynb
 │
 ├── README.md
 │
