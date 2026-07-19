@@ -174,4 +174,4 @@ The dataset contains customer information including:
 
 ## 📄 License
 
-This project is for educational and internship purposes.
+This project is for educational and internship purposes only.
