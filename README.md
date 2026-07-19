@@ -33,6 +33,9 @@ Customer-Churn-LTV-Engine/
 ├── Data/
 │   └── Telco_customer_churn.csv
 │
+├── Model/
+│   └── Churn_pipeline.pkl
+│
 ├── telco_churn.ipynb
 │
 ├── README.md
@@ -159,7 +162,7 @@ The dataset contains customer information including:
             git status
             git add .
             git commit -m "Message where to change"
-            git push
+            git push -u origin Your-branch-name
         )
 
 ---
