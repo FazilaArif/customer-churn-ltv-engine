@@ -174,6 +174,7 @@ The dataset contains customer information including:
 - Deploy using FastAPI
 - Streamlit Dashboard
 - CI/CD Pipeline
+- Add feature engineering techniques to improve model performance
 
 ---
 
