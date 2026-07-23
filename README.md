@@ -118,6 +118,8 @@ The dataset contains customer information including:
 - Feature Importance
 - Business Insights
 - Lifetime Value Estimation
+- Customer Segmentation
+
 
 ---
 
