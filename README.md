@@ -119,6 +119,7 @@ The dataset contains customer information including:
 - Business Insights
 - Lifetime Value Estimation
 - Customer Segmentation
+- Churn Probability Score
 
 
 ---
