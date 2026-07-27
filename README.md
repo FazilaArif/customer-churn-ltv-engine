@@ -140,6 +140,7 @@ The dataset contains customer information including:
 #### 6. Open the Project: Click Open on the notification prompt to load the cloned repository directly into VS Code.
 
 #### 7. Make your own branch (Below command is use for Create and immediately switch to your new branch)
+
         {
             git checkout -b your-new-branch-name
         }
@@ -166,6 +167,12 @@ The dataset contains customer information including:
             git commit -m "Message where to change"
             git push -u origin Your-branch-name
         )
+
+---
+
+## 📥 How to run streamlit app
+
+- Go to project directory in cmd and run command - streamlit run app.py
 
 ---
 
