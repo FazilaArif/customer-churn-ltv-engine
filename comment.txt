@@ -13,3 +13,5 @@
 # Display the last five records of the dataset.
 # Check the number of rows and columns in the dataset.
 # Display information about columns, data types, and missing values.
+# Display all column names present in the dataset.
+# Check for missing values in each column.
